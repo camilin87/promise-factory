@@ -1,0 +1,19 @@
+{
+  "name": "promise-factory",
+  "version": "1.0.0",
+  "description": "seamlessly create a promise",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilin87/promise-factory.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "@camilin87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilin87/promise-factory/issues"
+  },
+  "homepage": "https://github.com/camilin87/promise-factory#readme"
+}
