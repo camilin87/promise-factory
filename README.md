@@ -1,8 +1,8 @@
-# promise-factory
+# the-promise-factory
 Seamlessly create promises.
 
 ```js
-var promise = require("promise-factory");
+var promise = require("the-promise-factory");
 
 return promise.create((fulfill, reject) => {
     try {
